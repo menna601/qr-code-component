@@ -18,18 +18,18 @@ body{
     font-size: 15px;
 }
 
-.attribution {
+footer {
     font-size: 11px;
     position: absolute;
     bottom: 0;
     margin-bottom: 16px;
 }
 
-.attribution a {
+footer a {
     color: hsl(228, 45%, 44%);
 }
 
-.card {
+main {
     width: 320px;
     height: 497px;
     background-color: white;
@@ -37,8 +37,8 @@ body{
     text-align: center;
 }
 
-.card > div{
-    margin: 24px 32px 0;
+.content{
+    margin: 20px 32px 0;
 }
 
 .img{
@@ -46,14 +46,14 @@ body{
     margin-top: 16px;
 }
 
-.bold{
+h1{
     font-weight: 700;
     font-size: 22px;
     color: #1F314F;
     margin-bottom: 16px;
 }
 
-.regular{
+p{
     color: #7D889E;
     letter-spacing: 0.19px;
 }
